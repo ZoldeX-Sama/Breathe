@@ -1,4 +1,4 @@
-token=NTgzMzg2ODM4MTgyMzk1OTA4.XO7nng.gD7B-LVC9uRNfgNk7EI9T0rHgQo 
+token=NTgzMzg2ODM4MTgyMzk1OTA4.XO7nng.gD7B-LVC9uRNfgNk7EI9T0rHgQo
 owner=530914058526916611 
 prefix= Br
 game= Brplay
